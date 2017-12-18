@@ -1,0 +1,10 @@
+{
+    "appName":
+    {
+        "message": " 扩展模板"
+    },
+    "appDescription":
+    {
+        "message": " 使用vue.js编写的chrome扩展程序模板"
+    }
+}

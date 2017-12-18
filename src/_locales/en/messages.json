@@ -1,0 +1,10 @@
+{
+    "appName":
+    {
+        "message": "Extension template"
+    },
+    "appDescription":
+    {
+        "message": "A chrome extension template written in vue.js "
+    }
+}
